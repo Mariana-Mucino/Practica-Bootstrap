@@ -1,0 +1,24 @@
+div#carouselExample{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+div#cards{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+div#lists{
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
+}
+
+div#footer{
+    margin-top: 20px;
+}
+
+@media only screen and (max-width: 500px){
+    #lists{text-align: center;}
+    #footer{text-align: center;}
+}
